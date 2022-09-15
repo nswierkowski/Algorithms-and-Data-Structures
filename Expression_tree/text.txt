@@ -1,0 +1,16 @@
+a = 10
+b = 20
+c = 30
+PRINT c
+DO a 
+* ( - ( c a ) / ( b a ) )
+PRINT a
+DO d
++ ( a * ( b c ) )
+PRINT d 
+DO c
+/ ( d 2 )
+PRINT c
+DO e
+/ ( + ( a + ( c d ) ) 3 )
+PRINT e
